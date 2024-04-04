@@ -1,7 +1,11 @@
 import React from "react";
 
 function Footer() {
-  return <div>Footer</div>;
+  return (
+    <footer className="py-2 px-4 border-t">
+      <small>@2024 T Mori</small>
+    </footer>
+  );
 }
 
 export default Footer;

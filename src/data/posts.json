@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "id": "NEXT.JS",
+      "title": "NEXT.JSでブログアプリ作成",
+      "content": "shincodeさんの教材で学んでいます。",
+      "createdAt": "2024/04/04"
+    },
+    {
+      "id": "json-server",
+      "title": "JSONサーバー",
+      "content": "json-serverは、簡単にREST APIを構築できるツールです。ローカルマシン上にJSONファイルを置くだけで、RESTfulなAPIを作成し、GET、POST、PUT、DELETEなどのHTTPリクエストを使用してデータの取得、作成、更新、削除を行うことができます。",
+      "createdAt": "2024/04/05"
+    }
+  ]
+}
